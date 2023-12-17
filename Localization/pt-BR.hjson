@@ -2,175 +2,176 @@ Mods: {
 	AssortedCrazyThings: {
 		Buffs: {
 			# Cute Slimes
+			# GuiSai Note for naming cute slime: Geleia (Caracteristica) Fofa // Everything in female bcs yes
 			CuteSlimeBlackBuff: {
-				// DisplayName: Cute Black Slime
-				// Description: A cute black slime is following you
+				DisplayName: Geleia Preta Fofa
+				Description: Uma geleia preta fofa está seguindo você
 			}
 
 			CuteSlimeBlueBuff: {
-				// DisplayName: Cute Blue Slime
-				// Description: A cute blue slime is following you
+				DisplayName: Geleia Azul Fofa
+				Description: Uma geleia azul fofa está seguindo você
 			}
 
 			CuteSlimeCorruptBuff: {
-				// DisplayName: Cute Corrupt Slime
-				// Description: A cute corrupt slime is following you
+				DisplayName: Geleia Corrupta Fofa
+				Description: Uma geleia corrupta fofa está seguindo você
 			}
 
 			CuteSlimeCorruptJungleBuff: {
-				// DisplayName: Cute Corrupt Jungle Slime
-				// Description: A cute corrupt jungle slime is following you
+				DisplayName: Geleia Corrupta da Selva Fofa
+				Description: Uma geleia corrupta da selva fofa está seguindo você
 			}
 
 			CuteSlimeCrimsonBuff: {
-				// DisplayName: Cute Crimson Slime
-				// Description: A cute crimson slime is following you
+				DisplayName: Geleia de Carmim Fofa
+				Description: Uma geleia de carmim fofa está seguindo você
 			}
 
 			CuteSlimeCrimsonJungleBuff: {
-				// DisplayName: Cute Crimson Jungle Slime
-				// Description: A cute crimson jungle slime is following you
+				DisplayName: Geleia de Carmim da Selva Fofa
+				Description: Uma geleia de carmim da selva fofa está seguindo você
 			}
 
 			CuteSlimeDungeonBuff: {
-				// DisplayName: Cute Dungeon Slime
-				// Description: A cute dungeon slime is following you
+				DisplayName: Geleia do Calabouço Fofa
+				Description: Uma geleia do calabouço fofa está seguindo você
 			}
 
 			CuteSlimeGoldenBuff: {
-				// DisplayName: Cute Golden Slime
-				// Description: A cute golden slime is following you
+				DisplayName: Geleia Dourada Fofa
+				Description: Uma geleia dourada fofa está seguindo você
 			}
 
 			CuteSlimeGreenBuff: {
-				// DisplayName: Cute Green Slime
-				// Description: A cute green slime is following you
+				DisplayName: Geleia Verde Fofa
+				Description: Uma geleia verde fofa está seguindo você
 			}
 
 			CuteSlimeHoneyBuff: {
-				// DisplayName: Cute Honey Slime
-				// Description: A cute honey slime is following you
+				DisplayName: Geleia de Mel Fofa
+				Description: Uma geleia de mel fofa está seguindo você
 			}
 
 			CuteSlimeIceBuff: {
-				// DisplayName: Cute Ice Slime
-				// Description: A cute ice slime is following you
+				DisplayName: Geleia de Gelo Fofa
+				Description: Uma geleia de gelo fofa está seguindo você
 			}
-
+			
 			CuteSlimeIlluminantBuff: {
-				// DisplayName: Cute Illuminant Slime
-				// Description: A cute illuminant slime is following you
+				DisplayName: Geleia Iluminada Fofa
+				Description: Uma geleia iluminada fofa está seguindo você
 			}
 
 			CuteSlimeJungleBuff: {
-				// DisplayName: Cute Jungle Slime
-				// Description: A cute jungle slime is following you
+				DisplayName: Geleia da Selva Fofa
+				Description: Uma geleia da selva fofa está seguindo você
 			}
 
 			CuteSlimeLavaBuff: {
-				// DisplayName: Cute Lava Slime
-				// Description: A cute lava slime is following you
+				DisplayName: Geleia de Lava Fofa
+				Description: Uma geleia de lava fofa está seguindo você
 			}
 
 			CuteSlimePinkBuff: {
-				// DisplayName: Cute Pink Slime
-				// Description: A cute pink slime is following you
+				DisplayName: Geleia Rosa Fofa
+				Description: Uma geleia rosa fofa está seguindo você
 			}
 
 			CuteSlimePinkIceBuff: {
-				// DisplayName: Cute Pink Ice Slime
-				// Description: A cute pink ice slime is following you
+				DisplayName: Geleia Rosa de Gelo Fofa
+				Description: Uma geleia rosa de gelo fofa está seguindo você
 			}
 
 			CuteSlimePrincessBuff: {
-				// DisplayName: Cute Princess Slime
-				// Description: A cute princess slime is following you
+				DisplayName: Geleia Princesa Fofa
+				Description: Uma geleia princesa fofa está seguindo você
 			}
 
 			CuteSlimePurpleBuff: {
-				// DisplayName: Cute Purple Slime
-				// Description: A cute purple slime is following you
+				DisplayName: Geleia Roxa Fofa
+				Description: Uma geleia roxa fofa está seguindo você
 			}
 
 			CuteSlimePurpleIceBuff: {
-				// DisplayName: Cute Purple Ice Slime
-				// Description: A cute purple ice slime is following you
+				DisplayName: Geleia Roxa de Gelo Fofa
+				Description: Uma geleia roxa de gelo fofa está seguindo você
 			}
 
 			CuteSlimeQueenBuff: {
-				// DisplayName: Cute Queen Slime
-				// Description: A cute queen slime is following you
+				DisplayName: Geleia Rainha Fofa
+				Description: Uma geleia rainha fofa está seguindo você
 			}
 
 			CuteSlimeRainbowBuff: {
-				// DisplayName: Cute Rainbow Slime
-				// Description: A cute rainbow slime is following you
+				DisplayName: Geleia Arco-Íris Fofa
+				Description: Uma geleia arco-íris fofa está seguindo você
 			}
 
 			CuteSlimeRedBuff: {
-				// DisplayName: Cute Red Slime
-				// Description: A cute red slime is following you
+				DisplayName: Geleia Vermelha Fofa
+				Description: Uma geleia vermelha fofa está seguindo você
 			}
 
 			CuteSlimeRedIceBuff: {
-				// DisplayName: Cute Red Ice Slime
-				// Description: A cute red ice slime is following you
+				DisplayName: Geleia Vermelha de Gelo Fofa
+				Description: Uma geleia vermelha de gelo fofa está seguindo você
 			}
 
 			CuteSlimeSandBuff: {
-				// DisplayName: Cute Sand Slime
-				// Description: A cute sand slime is following you
+				DisplayName: Geleia de Areia Fofa
+				Description: Uma geleia de areia fofa está seguindo você
 			}
 
 			CuteSlimeShimmerBuff: {
-				// DisplayName: Cute Shimmer Slime
-				// Description: A cute shimmer slime is following you
+				DisplayName: Geleia Brilhante Fofa
+				Description: Uma geleia brilhante fofa está seguindo você
 			}
 
 			CuteSlimeToxicBuff: {
-				// DisplayName: Cute Toxic Slime
-				// Description: A cute toxic slime is following you
+				DisplayName: Geleia Tóxica Fofa
+				Description: Uma geleia tóxica fofa está seguindo você
 			}
 
 			CuteSlimeXmasBuff: {
-				// DisplayName: Cute Christmas Slime
-				// Description: A cute Christmas slime is following you
+				DisplayName: Geleia Natalina Fofa
+				Description: Uma geleia natalina fofa está seguindo você
 			}
 
 			CuteSlimeYellowBuff: {
-				// DisplayName: Cute Yellow Slime
-				// Description: A cute yellow slime is following you
+				DisplayName: Geleia Amarela Fofa
+				Description: Uma geleia amarela fofa está seguindo você
 			}
 
 			# Pets. AoMM versions are auto-generated
 			AbeeminationBuff: {
 				// DisplayName: Abeemination
-				// Description: An abeemination is following you
+				// Description: An abeemination está seguindo você
 			}
 
 			AlienHornetBuff: {
 				// DisplayName: Alien Hornet
-				// Description: An alien hornet is following you
+				// Description: An alien hornet está seguindo você
 			}
 
 			AnimatedTomeBuff: {
 				// DisplayName: Animated Tome
-				// Description: An animated tome is following you
+				// Description: An animated tome está seguindo você
 			}
 
 			AnomalocarisBuff: {
 				// DisplayName: Anomalocaris
-				// Description: A little prehistoric shrimp is following you
+				// Description: A little prehistoric shrimp está seguindo você
 			}
 
 			BabyCrimeraBuff: {
 				// DisplayName: Baby Crimera
-				// Description: A little crimera is following you
+				// Description: A little crimera está seguindo você
 			}
 
 			BabyIchorStickerBuff: {
 				// DisplayName: Lil' Ichy
-				// Description: A baby ichor sticker is following you
+				// Description: A baby ichor sticker está seguindo você
 			}
 
 			BabyOcramBuff: {
@@ -180,7 +181,7 @@ Mods: {
 
 			BrainofConfusionBuff: {
 				// DisplayName: Brain of Confusion
-				// Description: A brain of confusion is following you
+				// Description: A brain of confusion está seguindo você
 			}
 
 			ChunkyandMeatballBuff: {
@@ -190,12 +191,12 @@ Mods: {
 
 			ChunkySlimeBuff: {
 				// DisplayName: Chunky
-				// Description: Chunky is following you
+				// Description: Chunky está seguindo você
 			}
 
 			CompanionDungeonSoulPetBuff: {
 				// DisplayName: Companion Soul
-				// CommonDescription: A friendly dungeon soul is following you
+				// CommonDescription: A friendly dungeon soul está seguindo você
 				/* Description:
 					'''
 					{$Buffs.CompanionDungeonSoulPetBuff.CommonDescription}
@@ -219,17 +220,17 @@ Mods: {
 
 			CuteGastropodBuff: {
 				// DisplayName: Cute Gastropod
-				// Description: A cute gastropod is following you
+				// Description: A cute gastropod está seguindo você
 			}
 
 			CuteLamiaPetBuff: {
 				// DisplayName: Small Snake
-				// Description: A small snake is following you
+				// Description: A small snake está seguindo você
 			}
 
 			DemonHeartBuff: {
 				// DisplayName: Demon Heart
-				// Description: A demon heart is following you
+				// Description: A demon heart está seguindo você
 			}
 
 			DetachedHungryBuff: {
@@ -239,17 +240,17 @@ Mods: {
 
 			DocileDemonEyeBuff: {
 				// DisplayName: Docile Demon Eye
-				// Description: A demon eye is following you
+				// Description: A demon eye está seguindo você
 			}
 
 			DrumstickElementalBuff: {
 				// DisplayName: Drumstick Elemental
-				// Description: Dinner is following you
+				// Description: Dinner está seguindo você
 			}
 
 			DynamiteBunnyBuff: {
 				// DisplayName: Dynamite Bunny
-				// Description: A little dynamite bunny is following you
+				// Description: A little dynamite bunny está seguindo você
 			}
 
 			EnchantedSwordBuff: {
@@ -259,42 +260,42 @@ Mods: {
 
 			FailureSlimeBuff: {
 				// DisplayName: Failure Slime
-				// Description: A strange creature is following you
+				// Description: A strange creature está seguindo você
 			}
 
 			FairySlimeBuff: {
 				// DisplayName: Fairy Slime
-				// Description: A fairy slime is following you
+				// Description: A fairy slime está seguindo você
 			}
 
 			FairySwarmBuff: {
 				// DisplayName: Fairy Swarm
-				// Description: A fairy swarm is following you
+				// Description: A fairy swarm está seguindo você
 			}
 
 			GhostMartianBuff: {
 				// DisplayName: Ghost Martian
-				// Description: A vengeful invader's ghost is following you
+				// Description: A vengeful invader's ghost está seguindo você
 			}
 
 			GobletBuff: {
 				// DisplayName: Goblet
-				// Description: A tiny goblin is following you
+				// Description: A tiny goblin está seguindo você
 			}
 
 			HornedSlimeBuff: {
 				// DisplayName: Horned Slime
-				// Description: A horned slime is following you
+				// Description: A horned slime está seguindo você
 			}
 
 			IlluminantSlimeBuff: {
 				// DisplayName: Illuminant Slime
-				// Description: An illuminant slime is following you
+				// Description: An illuminant slime está seguindo você
 			}
 
 			JoyousSlimeBuff: {
 				// DisplayName: Joyous Slime
-				// Description: A joyous slime is following you
+				// Description: A joyous slime está seguindo você
 			}
 
 			LifelikeMechanicalFrogBuff: {
@@ -304,22 +305,22 @@ Mods: {
 
 			LilWrapsBuff: {
 				// DisplayName: Lil' Wraps
-				// Description: A mummy is following you
+				// Description: A mummy está seguindo você
 			}
 
 			MeatballSlimeBuff: {
 				// DisplayName: Meatball
-				// Description: Meatball is following you
+				// Description: Meatball está seguindo você
 			}
 
 			MetroidPetBuff: {
 				// DisplayName: Metroid
-				// Description: A space parasite is following you
+				// Description: A space parasite está seguindo você
 			}
 
 			MiniAntlionBuff: {
 				// DisplayName: Baby Antlion
-				// Description: A baby antlion is following you
+				// Description: A baby antlion está seguindo você
 			}
 
 			MiniMegalodonBuff: {
@@ -329,17 +330,17 @@ Mods: {
 
 			NumberMuncherBuff: {
 				// DisplayName: Number Muncher
-				// Description: An educated amphibian is following you
+				// Description: An educated amphibian está seguindo você
 			}
 
 			OceanSlimeBuff: {
 				// DisplayName: Ocean Slime
-				// Description: An ocean slime is following you
+				// Description: An ocean slime está seguindo você
 			}
 
 			PetCultistBuff: {
 				// DisplayName: Dwarf Cultist
-				// Description: A tiny cultist is following you
+				// Description: A tiny cultist está seguindo você
 			}
 
 			PetDestroyerBuff: {
@@ -349,17 +350,17 @@ Mods: {
 
 			PetEaterofWorldsBuff: {
 				// DisplayName: Tiny Eater of Worlds
-				// Description: A tiny Eater of Worlds is following you
+				// Description: A tiny Eater of Worlds está seguindo você
 			}
 
 			PetFishronBuff: {
 				// DisplayName: Fishron
-				// Description: A fishron is following you
+				// Description: A fishron está seguindo você
 			}
 
 			PetGoldfishBuff: {
 				// DisplayName: Possessed Goldfish
-				// Description: A possessed goldfish is following you
+				// Description: A possessed goldfish está seguindo você
 			}
 
 			PetGolemHeadBuff: {
@@ -369,7 +370,7 @@ Mods: {
 
 			PetHarvesterBuff: {
 				// DisplayName: Stubborn Bird
-				// Description: A stubborn bird is following you
+				// Description: A stubborn bird está seguindo você
 			}
 
 			PetMoonBuff: {
@@ -379,12 +380,12 @@ Mods: {
 
 			PetPlanteraBuff: {
 				// DisplayName: Plantera Sprout
-				// Description: A Plantera sprout is following you
+				// Description: A Plantera sprout está seguindo você
 			}
 
 			PetQueenSlimeBuff: {
 				// DisplayName: Playful Slimelings
-				// Description: A trio of slimelings is following you
+				// Description: A trio of slimelings está seguindo você
 			}
 
 			PetSunBuff: {
@@ -408,17 +409,17 @@ Mods: {
 
 			PrinceSlimeBuff: {
 				// DisplayName: Prince Slime
-				// Description: A prince slime is following you
+				// Description: A prince slime está seguindo você
 			}
 
 			QueenLarvaBuff: {
 				// DisplayName: Queen Larva
-				// Description: A Queen Bee larva is following you
+				// Description: A Queen Bee larva está seguindo você
 			}
 
 			RainbowSlimeBuff: {
 				// DisplayName: Rainbow Slime
-				// Description: A rainbow slime is following you
+				// Description: A rainbow slime está seguindo você
 			}
 
 			SkeletronHandBuff: {
@@ -433,22 +434,22 @@ Mods: {
 
 			StingSlimeBuff: {
 				// DisplayName: Sting Slime
-				// Description: A sting slime is following you
+				// Description: A sting slime está seguindo você
 			}
 
 			StrangeRobotBuff: {
 				// DisplayName: Strange Robot
-				// Description: A strange robot is following you
+				// Description: A strange robot está seguindo você
 			}
 
 			SuspiciousNuggetBuff: {
 				// DisplayName: Suspicious Nugget
-				// Description: A suspicious nugget is following you
+				// Description: A suspicious nugget está seguindo você
 			}
 
 			SwarmofCthulhuBuff: {
 				// DisplayName: Swarm of Cthulhu
-				// Description: A swarm of Cthulhu is following you
+				// Description: A swarm of Cthulhu está seguindo você
 			}
 
 			TinyTwinsBuff: {
@@ -470,17 +471,17 @@ Mods: {
 
 			TrueObservingEyeBuff: {
 				// DisplayName: True Observing Eye
-				// Description: A tiny True Eye of Cthulhu is following you
+				// Description: A tiny True Eye of Cthulhu está seguindo você
 			}
 
 			TurtleSlimeBuff: {
 				// DisplayName: Turtle Slime
-				// Description: A turtle slime is following you
+				// Description: A turtle slime está seguindo você
 			}
 
 			VampireBatBuff: {
 				// DisplayName: Vampire Bat
-				// Description: A particularly dashing vampire is following you
+				// Description: A particularly dashing vampire está seguindo você
 			}
 
 			WallFragmentBuff: {
@@ -490,17 +491,17 @@ Mods: {
 
 			YoungHarpyBuff: {
 				// DisplayName: Young Harpy
-				// Description: A young harpy is following you
+				// Description: A young harpy está seguindo você
 			}
 
 			YoungWyvernBuff: {
 				// DisplayName: Young Wyvern
-				// Description: A young wyvern is following you
+				// Description: A young wyvern está seguindo você
 			}
 
 			WobyBuff: {
 				// DisplayName: Woby, 'A lovable dog...'
-				// Description: A loyal canine is following you
+				// Description: A loyal canine está seguindo você
 			}
 
 			CompanionDungeonSoulMinionBuff: {
@@ -625,143 +626,143 @@ Mods: {
 			}
 
 			CuteSlimeBlackItem: {
-				// DisplayName: Bottled Cute Black Slime
-				// Tooltip: Summons a cute black slime to follow you
+				DisplayName: Geleia Preta Fofa Engarrafada
+				Tooltip: Invoca uma Geleia Preta Fofa para seguir você
 			}
 
 			CuteSlimeBlueItem: {
-				// DisplayName: Bottled Cute Blue Slime
-				// Tooltip: Summons a cute blue slime to follow you
+				DisplayName: Geleia Azul Fofa Engarrafada
+				Tooltip: Invoca uma Geleia Azul Fofa para seguir você
 			}
 
 			CuteSlimeCorruptItem: {
-				// DisplayName: Bottled Cute Corrupt Slime
-				// Tooltip: Summons a cute corrupt slime to follow you
+				DisplayName: Geleia Corrupta Fofa Engarrafada
+				Tooltip: Invoca uma Geleia Corrupta Fofa para seguir você
 			}
 
 			CuteSlimeCorruptJungleItem: {
-				// DisplayName: Bottled Cute Corrupt Jungle Slime
-				// Tooltip: Summons a cute corrupt jungle slime to follow you
+				DisplayName: Geleia Corrupta da Selva Fofa Engarrafada
+				Tooltip: Invoca uma Geleia Corrupta da Selva Fofa para seguir você
 			}
 
 			CuteSlimeCrimsonItem: {
-				// DisplayName: Bottled Cute Crimson Slime
-				// Tooltip: Summons a cute crimson slime to follow you
+				DisplayName: Geleia de Carmim Fofa Engarrafada
+				Tooltip: Invoca uma Geleia de Carmim Fofa para seguir você
 			}
 
 			CuteSlimeCrimsonJungleItem: {
-				// DisplayName: Bottled Cute Crimson Jungle Slime
-				// Tooltip: Summons a cute crimson jungle slime to follow you
+				DisplayName: Geleia de Carmim da Selva Fofa Engarrafada
+				Tooltip: Invoca uma Geleia de Carmim da Selva Fofa para seguir você
 			}
 
 			CuteSlimeDungeonItem: {
-				// DisplayName: Bottled Cute Dungeon Slime
-				// Tooltip: Summons a cute dungeon slime to follow you
+				DisplayName: Geleia do Calabouço Fofa Engarrafada
+				Tooltip: Invoca uma Geleia do Calabouço Fofa para seguir você
 			}
 
 			CuteSlimeGoldenItem: {
-				// DisplayName: Bottled Cute Golden Slime
-				// Tooltip: Summons a cute golden slime to follow you
+				DisplayName: Geleia Dourada Fofa Engarrafada
+				Tooltip: Invoca uma Geleia Dourada Fofa para seguir você
 			}
 
 			CuteSlimeGreenItem: {
-				// DisplayName: Bottled Cute Green Slime
-				// Tooltip: Summons a cute green slime to follow you
+				DisplayName: Geleia Verde Fofa Engarrafada
+				Tooltip: Invoca uma Geleia Verde Fofa para seguir você
 			}
 
 			CuteSlimeHoneyItem: {
-				// DisplayName: Bottled Cute Honey Slime
-				// Tooltip: Summons a cute honey slime to follow you
+				DisplayName: Geleia de Mel Fofa Engarrafada
+				Tooltip: Invoca uma Geleia de Mel Fofa para seguir você
 			}
 
 			CuteSlimeIceItem: {
-				// DisplayName: Bottled Cute Ice Slime
-				// Tooltip: Summons a cute ice slime to follow you
+				DisplayName: Geleia de Gelo Fofa Engarrafada
+				Tooltip: Invoca uma Geleia de Gelo Fofa para seguir você
 			}
 
 			CuteSlimeIlluminantItem: {
-				// DisplayName: Bottled Cute Illuminant Slime
-				// Tooltip: Summons a cute illuminant slime to follow you
+				DisplayName: Geleia Iluminada Fofa Engarrafada
+				Tooltip: Invoca uma Geleia Iluminada Fofa para seguir você
 			}
 
 			CuteSlimeJungleItem: {
-				// DisplayName: Bottled Cute Jungle Slime
-				// Tooltip: Summons a cute jungle slime to follow you
+				DisplayName: Geleia da Selva Fofa Engarrafada
+				Tooltip: Invoca uma Geleia da Selva Fofa para seguir você
 			}
 
 			CuteSlimeLavaItem: {
-				// DisplayName: Bottled Cute Lava Slime
-				// Tooltip: Summons a cute lava slime to follow you
+				DisplayName: Geleia de Lava Fofa Engarrafada
+				Tooltip: Invoca uma Geleia de Lava Fofa para seguir você
 			}
 
 			CuteSlimePinkItem: {
-				// DisplayName: Bottled Cute Pink Slime
-				// Tooltip: Summons a cute pink slime to follow you
+				DisplayName: Geleia Rosa Fofa Engarrafada
+				Tooltip: Invoca uma Geleia Rosa Fofa para seguir você
 			}
 
 			CuteSlimePinkIceItem: {
-				// DisplayName: Bottled Cute Pink Ice Slime
-				// Tooltip: Summons a cute pink ice slime to follow you
+				DisplayName: Geleia Rosa de Gelo Fofa Engarrafada
+				Tooltip: Invoca uma Geleia Rosa de Gelo Fofa para seguir você
 			}
 
 			CuteSlimePrincessItem: {
-				// DisplayName: Bottled Cute Princess Slime
-				// Tooltip: Summons a cute princess slime to follow you
+				DisplayName: Geleia Princesa Fofa Engarrafada
+				Tooltip: Invoca uma Geleia Princesa Fofa para seguir você
 			}
 
 			CuteSlimePurpleItem: {
-				// DisplayName: Bottled Cute Purple Slime
-				// Tooltip: Summons a cute purple slime to follow you
+				DisplayName: Geleia Roxa Fofa Engarrafada
+				Tooltip: Invoca uma Geleia Roxa Fofa para seguir você
 			}
 
 			CuteSlimePurpleIceItem: {
-				// DisplayName: Bottled Cute Purple Ice Slime
-				// Tooltip: Summons a cute purple ice slime to follow you
+				DisplayName: Geleia Roxa de Gelo Fofa Engarrafada
+				Tooltip: Invoca uma Geleia Roxa de Gelo Fofa para seguir você
 			}
 
 			CuteSlimeQueenItem: {
-				// DisplayName: Bottled Cute Queen Slime
-				// Tooltip: Summons a cute queen slime to follow you
+				DisplayName: Geleia Rainha Fofa Engarrafada
+				Tooltip: Invoca uma Geleia Rainha Fofa para seguir você
 			}
 
 			CuteSlimeRainbowItem: {
-				// DisplayName: Bottled Cute Rainbow Slime
-				// Tooltip: Summons a cute rainbow slime to follow you
+				DisplayName: Geleia Arco-Íris Fofa Engarrafada
+				Tooltip: Invoca uma Geleia Arco-Íris Fofa para seguir você
 			}
 
 			CuteSlimeRedItem: {
-				// DisplayName: Bottled Cute Red Slime
-				// Tooltip: Summons a cute red slime to follow you
+				DisplayName: Geleia Vermelha Fofa Engarrafada
+				Tooltip: Invoca uma Geleia Vermelha Fofa para seguir você
 			}
 
 			CuteSlimeRedIceItem: {
-				// DisplayName: Bottled Cute Red Ice Slime
-				// Tooltip: Summons a cute red ice slime to follow you
+				DisplayName: Geleia Vermelha de Gelo Fofa Engarrafada
+				Tooltip: Invoca uma Geleia Vermelha de Gelo Fofa para seguir você
 			}
 
 			CuteSlimeSandItem: {
-				// DisplayName: Bottled Cute Sand Slime
-				// Tooltip: Summons a cute sand slime to follow you
+				DisplayName: Geleia de Areia Fofa Engarrafada
+				Tooltip: Invoca uma Geleia de Areia Fofa para seguir você
 			}
 
 			CuteSlimeShimmerItem: {
-				// DisplayName: Bottled Cute Shimmer Slime
-				// Tooltip: Summons a cute shimmer slime to follow you
+				DisplayName: Geleia Brilhante Fofa Engarrafada
+				Tooltip: Invoca uma Geleia Brilhante Fofa para seguir você
 			}
 
 			CuteSlimeToxicItem: {
-				// DisplayName: Bottled Cute Toxic Slime
-				// Tooltip: Summons a cute toxic slime to follow you
+				DisplayName: Geleia Tóxica Fofa Engarrafada
+				Tooltip: Invoca uma Geleia Tóxica Fofa para seguir você
 			}
 
 			CuteSlimeXmasItem: {
-				// DisplayName: Bottled Cute Christmas Slime
-				// Tooltip: Summons a cute christmas slime to follow you
+				DisplayName: Geleia Natalina Fofa Engarrafada
+				Tooltip: Invoca uma Geleia Natalina Fofa para seguir você
 			}
 
 			CuteSlimeYellowItem: {
-				// DisplayName: Bottled Cute Yellow Slime
-				// Tooltip: Summons a cute yellow slime to follow you
+				DisplayName: Geleia Amarela Fofa Engarrafada
+				Tooltip: Invoca uma Geleia Amarela Fofa para seguir você
 			}
 
 			# Pets. AoMM versions are auto-generated
@@ -823,7 +824,7 @@ Mods: {
 			}
 
 			ChunkySlimeItem: {
-				// DisplayName: Bottled Chunky
+				// DisplayName: Chunky Engarrafada
 				// Tooltip: Summons Chunky to follow you
 			}
 
@@ -913,7 +914,7 @@ Mods: {
 			}
 
 			FairySlimeItem: {
-				// DisplayName: Bottled Fairy Slime
+				// DisplayName: Fairy Slime Engarrafada
 				// Tooltip: Summons a friendly fairy slime to follow you
 			}
 
@@ -933,17 +934,17 @@ Mods: {
 			}
 
 			HornedSlimeItem: {
-				// DisplayName: Bottled Horned Slime
+				// DisplayName: Horned Slime Engarrafada
 				// Tooltip: Summons a friendly horned slime to follow you
 			}
 
 			IlluminantSlimeItem: {
-				// DisplayName: Bottled Illuminant Slime
+				// DisplayName: Illuminant Slime Engarrafada
 				// Tooltip: Summons a friendly illuminant slime to follow you
 			}
 
 			JoyousSlimeItem: {
-				// DisplayName: Bottled Joyous Slime
+				// DisplayName: Joyous Slime Engarrafada
 				/* Tooltip:
 					'''
 					Summons a friendly joyous slime to follow you
@@ -970,7 +971,7 @@ Mods: {
 			}
 
 			MeatballSlimeItem: {
-				// DisplayName: Bottled Meatball
+				// DisplayName: Meatball Engarrafada
 				// Tooltip: Summons Meatball to follow you
 			}
 
@@ -1003,7 +1004,7 @@ Mods: {
 			}
 
 			OceanSlimeItem: {
-				// DisplayName: Bottled Ocean Slime
+				// DisplayName: Ocean Slime Engarrafada
 				/* Tooltip:
 					'''
 					Summons a friendly ocean slime to follow you
@@ -1060,7 +1061,7 @@ Mods: {
 			}
 
 			PetMoonItem: {
-				// DisplayName: Bottled Moon
+				// DisplayName: Moon Engarrafada
 				/* Tooltip:
 					'''
 					Summons a small moon that provides you with constant moonlight
@@ -1084,7 +1085,7 @@ Mods: {
 			}
 
 			PetSunItem: {
-				// DisplayName: Bottled Sun
+				// DisplayName: Sun Engarrafada
 				/* Tooltip:
 					'''
 					Summons a small sun that provides you with constant sunlight
@@ -1093,7 +1094,7 @@ Mods: {
 			}
 
 			PetSunMoonItem: {
-				// DisplayName: Bottled Sun and Moon
+				// DisplayName: Sun and Moon Engarrafada
 				/* Tooltip:
 					'''
 					Summons a small sun and moon that provide you with constant light
@@ -1113,7 +1114,7 @@ Mods: {
 			}
 
 			PrinceSlimeItem: {
-				// DisplayName: Bottled Prince Slime
+				// DisplayName: Prince Slime Engarrafada
 				// Tooltip: Summons a prince slime to follow you
 			}
 
@@ -1127,7 +1128,7 @@ Mods: {
 			}
 
 			RainbowSlimeItem: {
-				// DisplayName: Bottled Rainbow Slime
+				// DisplayName: Rainbow Slime Engarrafada
 				// Tooltip: Summons a friendly rainbow slime to follow you
 			}
 
@@ -1150,7 +1151,7 @@ Mods: {
 			}
 
 			StingSlimeItem: {
-				// DisplayName: Bottled Sting Slime
+				// DisplayName: Sting Slime Engarrafada
 				/* Tooltip:
 					'''
 					Summons a friendly sting slime to follow you
@@ -1198,7 +1199,7 @@ Mods: {
 			}
 
 			TurtleSlimeItem: {
-				// DisplayName: Bottled Turtle Slime
+				// DisplayName: Turtle Slime Engarrafada
 				// Tooltip: Summons a friendly turtle slime to follow you
 			}
 
@@ -1239,8 +1240,8 @@ Mods: {
 				// Tooltip: Summons a loyal canine to follow you
 			}
 
-			BottledDreams: {
-				// DisplayName: Bottled Dreams
+			BottledDreams: { Engarrafada
+				// DisplayName: Dreams Engarrafada
 				// Tooltip: Allows the holder to double jump
 			}
 
@@ -2149,129 +2150,129 @@ Mods: {
 			}
 
 			CuteSlimeBlack: {
-				// DisplayName: Cute Black Slime
+				// DisplayName: Geleia Preta Fofa
 				// BestiaryFlavorText: Harboring great vanity for its ponytail, the easiest way to befriend it is to compliment the hair.
 			}
 
 			CuteSlimeBlue: {
-				// DisplayName: Cute Blue Slime
+				// DisplayName: Geleia Azul Fofa
 				// BestiaryFlavorText: Though its expression is dull, this slime is very affectionate and loves to hug anyone that it gets close to.
 			}
 
 			CuteSlimeCorrupt: {
-				// DisplayName: Cute Corrupt Slime
+				// DisplayName: Geleia Corrupta Fofa
 				// BestiaryFlavorText: Hollow eyes and a dark color makes you think this slime is dangerous, but it's just not very social.
 			}
 
 			CuteSlimeCorruptJungle: {
-				// DisplayName: Cute Corrupt Jungle Slime
+				// DisplayName: Geleia Corrupta da Selva Fofa
 				// BestiaryFlavorText: Slimes are incredibly adaptable, being able to survive even the harshest conditions.
 			}
 
 			CuteSlimeCrimson: {
-				// DisplayName: Cute Crimson Slime
+				// DisplayName: Geleia de Carmim Fofa
 				// BestiaryFlavorText: Though it looks like it has an unstable mind, this slime is incredibly calm and collected.
 			}
 
 			CuteSlimeCrimsonJungle: {
-				// DisplayName: Cute Crimson Jungle Slime
+				// DisplayName: Geleia de Carmim da Selva Fofa
 				// BestiaryFlavorText: When the jungle turned red, this slime adapted quickly by mimicking the crimson grass.
 			}
 
 			CuteSlimeDungeon: {
-				// DisplayName: Cute Dungeon Slime
+				// DisplayName: Geleia do Calabouço Fofa
 				// BestiaryFlavorText: This slime was created in the image of an ancient sorceress. Other than the lack of legs, it's almost perfect.
 			}
 
-			// CuteSlimeGolden.DisplayName: Cute Golden Slime
+			// CuteSlimeGolden.DisplayName: Geleia Dourada Fofa
 
 			CuteSlimeGreen: {
-				// DisplayName: Cute Green Slime
+				// DisplayName: Geleia Verde Fofa
 				// BestiaryFlavorText: Don't let the closed eyes fool you; this slime is attentive and ready to act at a moment's notice.
 			}
 
 			CuteSlimeHoney: {
-				// DisplayName: Cute Honey Slime
+				// DisplayName: Geleia de Mel Fofa
 				// BestiaryFlavorText: To hide from the hornets, this slime coated itself in honey. It only made the hornets more aware.
 			}
 
 			CuteSlimeIce: {
-				// DisplayName: Cute Ice Slime
+				// DisplayName: Geleia de Gelo Fofa
 				// BestiaryFlavorText: Its body may be cold to the touch, but its expression and mannerisms will warm your heart.
 			}
 
 			CuteSlimeIlluminant: {
-				// DisplayName: Cute Illuminant Slime
+				// DisplayName: Geleia Iluminada Fofa
 				// BestiaryFlavorText: The erratic nature of the Hallow has made this slime quite playful.
 			}
 
 			CuteSlimeJungle: {
-				// DisplayName: Cute Jungle Slime
+				// DisplayName: Geleia da Selva Fofa
 				// BestiaryFlavorText: Life in the jungle is hard for soft-bodied visitors, but this slime proves it's not impossible.
 			}
 
 			CuteSlimeLava: {
-				// DisplayName: Cute Lava Slime
+				// DisplayName: Geleia de Lava Fofa
 				// BestiaryFlavorText: Having accidentally gotten impaled by a chunk of obsidian, this slime laments being unable to remove it.
 			}
 
 			CuteSlimePink: {
-				// DisplayName: Cute Pink Slime
+				// DisplayName: Geleia Rosa Fofa
 				// BestiaryFlavorText: Dimminutive does not mean lacking. Despite its size, this slime has more spunk than an entire party.
 			}
 
 			CuteSlimePinkIce: {
-				// DisplayName: Cute Pink Ice Slime
+				// DisplayName: Geleia Rosa de Gelo Fofa
 				// BestiaryFlavorText: The hallow may have chaotic effects on the wildlife, but this slime remains calm and polite.
 			}
 
 			CuteSlimePurple: {
-				// DisplayName: Cute Purple Slime
+				// DisplayName: Geleia Roxa Fofa
 				// BestiaryFlavorText: Don't let the smile fool you; it's actually much happier than it looks.
 			}
 
 			CuteSlimePurpleIce: {
-				// DisplayName: Cute Purple Ice Slime
+				// DisplayName: Geleia Roxa de Gelo Fofa
 				// BestiaryFlavorText: Frightened by the corruption, this slime is perpetually nervous.
 			}
 
 			CuteSlimeRainbow: {
-				// DisplayName: Cute Rainbow Slime
+				// DisplayName: Geleia Arco-Íris Fofa
 				// BestiaryFlavorText: The caring and motherly nature that this slime exhibits shows that it understands compassion.
 			}
 
 			CuteSlimeRed: {
-				// DisplayName: Cute Red Slime
+				// DisplayName: Geleia Vermelha Fofa
 				// BestiaryFlavorText: A playful slime that is quite active. It sometimes goes overboard when having fun.
 			}
 
 			CuteSlimeRedIce: {
-				// DisplayName: Cute Red Ice Slime
+				// DisplayName: Geleia Vermelha de Gelo Fofa
 				// BestiaryFlavorText: It is best to avoid standing out when in the Crimson, and this slime knows that all too well.
 			}
 
 			CuteSlimeSand: {
-				// DisplayName: Cute Sand Slime
+				// DisplayName: Geleia de Areia Fofa
 				// BestiaryFlavorText: The coarse sand that coats its body leads it to keep its distance, but it won't turn down a friend.
 			}
 
 			CuteSlimeShimmer: {
-				// DisplayName: Cute Shimmer Slime
+				// DisplayName: Geleia Brilhante Fofa
 				// BestiaryFlavorText: When exposed to the mysterious shimmer, this slime took on an aetherial appearance.
 			}
 
 			CuteSlimeToxic: {
-				// DisplayName: Cute Toxic Slime
+				// DisplayName: Geleia Tóxica Fofa
 				// BestiaryFlavorText: Appearances are deceiving; it's only half as monstrous as it looks!
 			}
 
 			CuteSlimeXmas: {
-				// DisplayName: Cute Christmas Slime
+				// DisplayName: Geleia Natalina Fofa
 				// BestiaryFlavorText: The greatest gift is a friend. This slime wants to bring that gift to everyone.
 			}
 
 			CuteSlimeYellow: {
-				// DisplayName: Cute Yellow Slime
+				// DisplayName: Geleia Amarela Fofa
 				// BestiaryFlavorText: Moving with delicate grace, this slime dances about without missing a step.
 			}
 
@@ -2486,34 +2487,34 @@ Mods: {
 				// Dropkick.Tooltip: Dropkick
 			}
 
-			// CuteSlimeBlackProj.DisplayName: Cute Black Slime
-			// CuteSlimeBlueProj.DisplayName: Cute Blue Slime
-			// CuteSlimeCorruptProj.DisplayName: Cute Corrupt Slime
-			// CuteSlimeCorruptJungleProj.DisplayName: Cute Corrupt Jungle Slime
-			// CuteSlimeCrimsonProj.DisplayName: Cute Crimson Slime
-			// CuteSlimeCrimsonJungleProj.DisplayName: Cute Crimson Jungle Slime
-			// CuteSlimeDungeonProj.DisplayName: Cute Dungeon Slime
-			// CuteSlimeGoldenProj.DisplayName: Cute Golden Slime
-			// CuteSlimeGreenProj.DisplayName: Cute Green Slime
-			// CuteSlimeHoneyProj.DisplayName: Cute Honey Slime
-			// CuteSlimeIceProj.DisplayName: Cute Ice Slime
-			// CuteSlimeIlluminantProj.DisplayName: Cute Illuminant Slime
-			// CuteSlimeJungleProj.DisplayName: Cute Jungle Slime
-			// CuteSlimeLavaProj.DisplayName: Cute Lava Slime
-			// CuteSlimePinkProj.DisplayName: Cute Pink Slime
-			// CuteSlimePinkIceProj.DisplayName: Cute Pink Ice Slime
-			// CuteSlimePrincessProj.DisplayName: Cute Princess Slime
-			// CuteSlimePurpleProj.DisplayName: Cute Purple Slime
-			// CuteSlimePurpleIceProj.DisplayName: Cute Purple Ice Slime
-			// CuteSlimeQueenProj.DisplayName: Cute Queen Slime
-			// CuteSlimeRainbowProj.DisplayName: Cute Rainbow Slime
-			// CuteSlimeRedProj.DisplayName: Cute Red Slime
-			// CuteSlimeRedIceProj.DisplayName: Cute Red Ice Slime
-			// CuteSlimeSandProj.DisplayName: Cute Sand Slime
-			// CuteSlimeShimmerProj.DisplayName: Cute Shimmer Slime
-			// CuteSlimeToxicProj.DisplayName: Cute Toxic Slime
-			// CuteSlimeXmasProj.DisplayName: Cute Christmas Slime
-			// CuteSlimeYellowProj.DisplayName: Cute Yellow Slime
+			CuteSlimeBlackProj.DisplayName: Geleia Preta Fofa
+			CuteSlimeBlueProj.DisplayName: Geleia Azul Fofa
+			CuteSlimeCorruptProj.DisplayName: Geleia Corrupta Fofa
+			CuteSlimeCorruptJungleProj.DisplayName: Geleia Corrupta da Selva Fofa
+			CuteSlimeCrimsonProj.DisplayName: Geleia de Carmim Fofa
+			CuteSlimeCrimsonJungleProj.DisplayName: Geleia de Carmim da Selva Fofa
+			CuteSlimeDungeonProj.DisplayName: Geleia do Calabouço Fofa
+			CuteSlimeGoldenProj.DisplayName: Geleia Dourada Fofa
+			CuteSlimeGreenProj.DisplayName: Geleia Verde Fofa
+			CuteSlimeHoneyProj.DisplayName: Geleia de Mel Fofa
+			CuteSlimeIceProj.DisplayName: Geleia de Gelo Fofa
+			CuteSlimeIlluminantProj.DisplayName: Geleia Iluminada Fofa
+			CuteSlimeJungleProj.DisplayName: Geleia da Selva Fofa
+			CuteSlimeLavaProj.DisplayName: Geleia de Lava Fofa
+			CuteSlimePinkProj.DisplayName: Geleia Rosa Fofa
+			CuteSlimePinkIceProj.DisplayName: Geleia Rosa de Gelo Fofa
+			CuteSlimePrincessProj.DisplayName: Geleia Princesa Fofa
+			CuteSlimePurpleProj.DisplayName: Geleia Roxa Fofa
+			CuteSlimePurpleIceProj.DisplayName: Geleia Roxa de Gelo Fofa
+			CuteSlimeQueenProj.DisplayName: Geleia Rainha Fofa
+			CuteSlimeRainbowProj.DisplayName: Geleia Arco-Íris Fofa
+			CuteSlimeRedProj.DisplayName: Geleia Vermelha Fofa
+			CuteSlimeRedIceProj.DisplayName: Geleia Vermelha de Gelo Fofa
+			CuteSlimeSandProj.DisplayName: Geleia de Areia Fofa
+			CuteSlimeShimmerProj.DisplayName: Geleia Brilhante Fofa
+			CuteSlimeToxicProj.DisplayName: Geleia Tóxica Fofa
+			CuteSlimeXmasProj.DisplayName: Geleia Natalina Fofa
+			CuteSlimeYellowProj.DisplayName: Geleia Amarela Fofa
 			// DemonHeartProj.DisplayName: Demon Heart
 			// DetachedHungryProj.DisplayName: Detached Hungry
 
