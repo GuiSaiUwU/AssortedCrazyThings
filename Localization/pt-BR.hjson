@@ -620,7 +620,7 @@ Mods: {
 				AccessoryBlacklisted: Bloqueado
 				AccessoryNone: Nenhum
 				HatSlot: Espaço dedicado para chapéus: {0}
-				BodySlot: Espaço dedicado para peitorais: {0}
+				BodySlot: Espaço dedicado para camisetas: {0}
 				CarriedSlot: Espaço dedicado para transporte: {0}
 				AccessorySlot: Espaço dedicado para acessórios: {0}
 			}
@@ -1429,7 +1429,7 @@ Mods: {
 
 			ChunkysEyeItem: {
 				DisplayName: Olho do Chunky
-				Tooltip: "'Ache o {$Items.MeatballsEyeItem.DisplayName} e combine ambos no Altar Demoníaco'"
+				Tooltip: "'Encontre o {$Items.MeatballsEyeItem.DisplayName} e combine ambos no Altar Demoníaco'"
 			}
 
 			CuteSlimeSpawnEnableFlask: {
@@ -1505,171 +1505,171 @@ Mods: {
 			}
 
 			StarForge: {
-				// DisplayName: Star Forge
-				// Tooltip: "'An endless supply of the cosmos'"
+				DisplayName: Forja Estelar
+				Tooltip: "'Um suprimento infinito do cosmos'"
 			}
 
-			// BrainOfCthulhuGitgud.DisplayName: Insanity-B-Gone
-			// DeerclopsGitgud.DisplayName: Deerclops Effigy
-			// DestroyerGitgud.DisplayName: Metal Dreamcatcher
-			// DukeFishronGitgud.DisplayName: White Hook
-			// EaterOfWorldsGitgud.DisplayName: Toy Seagull
-			// EmpressOfLightGitgud.DisplayName: Well-Worn Boots of Stomping
-			// EyeOfCthulhuGitgud.DisplayName: Broken Lens
-			// GolemGitgud.DisplayName: Rechargeable Solar Battery
-			// KingSlimeGitgud.DisplayName: Slime Inquisition Notice
-			// LunaticCultistGitgud.DisplayName: Notice of Occupational Termination
-			// MoonLordGitgud.DisplayName: Bright Side of the Moon
-			// PlanteraGitgud.DisplayName: Green Thumb
-			// QueenBeeGitgud.DisplayName: Honey Thimble
-			// QueenSlimeGitgud.DisplayName: Sparkling Cupcake
-			// SkeletronGitgud.DisplayName: Carton of Soy Milk
-			// SkeletronPrimeGitgud.DisplayName: Clock Set Ten Years Ahead
-			// TwinsGitgud.DisplayName: Metal Contact Lens
-			// WallOfFleshGitgud.DisplayName: Wall of Flesh Voodoo Doll
+			BrainOfCthulhuGitgud.DisplayName: Livramento da Insanidade
+			DeerclopsGitgud.DisplayName: Efígie do Cervoclope
+			DestroyerGitgud.DisplayName: Caçador de Sonhos Metálico
+			DukeFishronGitgud.DisplayName: Anzol Branco
+			EaterOfWorldsGitgud.DisplayName: Gaivota de Brinquedo
+			EmpressOfLightGitgud.DisplayName: Sapatilhas Usadas
+			EyeOfCthulhuGitgud.DisplayName: Lente Quebrada
+			GolemGitgud.DisplayName: Bateria Solar Recarregável
+			KingSlimeGitgud.DisplayName: Aviso da Inquisição Gosmenta
+			LunaticCultistGitgud.DisplayName: Aviso de Despejo
+			MoonLordGitgud.DisplayName: Lado Iluminado da Lua
+			PlanteraGitgud.DisplayName: Polegar Verde
+			QueenBeeGitgud.DisplayName: Dedal de Mel
+			QueenSlimeGitgud.DisplayName: Bolinho Brilhante
+			SkeletronGitgud.DisplayName: Caixa de Leite de Soja
+			SkeletronPrimeGitgud.DisplayName: Relógio Dez Anos Adiantado
+			TwinsGitgud.DisplayName: Lentes de Contato Metálica
+			WallOfFleshGitgud.DisplayName: Boneco de Vodu do Parede de Carne
 
 			IdolOfDecay: {
-				// DisplayName: Idol Of Decay
-				/* Tooltip:
+				DisplayName: Ídolo da Decadência
+				Tooltip:
 					'''
-					Summons {$NPCs.HarvesterBoss.DisplayName}'s final form in the dungeon
-					Unlimited uses!
-					''' */
+					Invoca a forma final do {$NPCs.HarvesterBoss.DisplayName} no calabouço
+					Usos ilimintados
+					'''
 			}
 
 			KnittingSet: {
-				// DisplayName: Knitting Set
-				// Tooltip: "'A set of tools used in crafting cute clothing and accessories'"
+				DisplayName: Conjunto de Tricô
+				Tooltip: "'Um conjunto de ferramentas usadas na criação de roupas fofinhas e acessórios'"
 			}
 
 			MeatballsEyeItem: {
-				// DisplayName: Bola de Carne's Eye
-				// Tooltip: "'Find {$Items.ChunkysEyeItem.DisplayName} and combine the two at a Demon Altar'"
+				DisplayName: Olho do Bola de Carne
+				Tooltip: "'Encontre o {$Items.ChunkysEyeItem.DisplayName} e combine ambos no Altar Demoníaco'"
 			}
 
 			PetAccessory: {
-				// Hat: Worn on the head
-				// Body: Worn on the body
-				// Carried: Carried
-				// Accessory: Worn as an accessory
-				// None: None
-				// Blacklisted: This accessory type is disabled for your particular slime
-				// NoUse: You have no summoned slime to equip this on
-				// Disabled: This accessory type is not registered for use by the devs
+				Hat: Usado na cabeça
+				Body: Usado no peitoral
+				Carried: Carregado
+				Accessory: Usado como um acessório
+				None: Nenhum
+				Blacklisted: Esse tipo de acessório é desabilitado para a sua geleia em específico
+				NoUse: Você não possuí nenhuma invocação de geleia para equipar isso
+				Disabled: Esse tipo de acessório não está registrado pelso desenvolvedores
 
 				Colors: {
-					// Red: Red
-					// Orange: Orange
-					// Gold: Gold
-					// Yellow: Yellow
-					// Green: Green
-					// Blue: Blue
-					// Purple: Purple
-					// Pink: Pink
-					// White: White
-					// Gray: Gray
-					// Black: Black
-					// Platinum: Platinum
-					// Iron: Iron
+					Red: Vermelho
+					Orange: Laranja
+					Gold: Dourado
+					Yellow: Amarelo
+					Green: Verde
+					Blue: Azul
+					Purple: Roxo
+					Pink: Rosa
+					White: Branco
+					Gray: Cinza
+					Black: Preto
+					Platinum: Platina
+					Iron: Ferro
 				}
 			}
 
 			PetAccessoryBowtie: {
-				// DisplayName: Cute {$Items.PetAccessoryBowtie.ShortName}
-				// Tooltip: "'A soft bowtie for your cute slime to wear on her chest'"
-				// ShortName: Bowtie
+				DisplayName: {$Items.PetAccessoryBowtie.ShortName} Fofinha
+				Tooltip: "'Uma gravata borboleta macia para a sua geleia fofa vestir em seu peitoral'"
+				ShortName: Gravata Borboleta
 
 				AccessoryNames: {
-					// Red: "{$Items.PetAccessory.Colors.Red}"
-					// Orange: "{$Items.PetAccessory.Colors.Orange}"
-					// Gold: "{$Items.PetAccessory.Colors.Gold}"
-					// Yellow: "{$Items.PetAccessory.Colors.Yellow}"
-					// Green: "{$Items.PetAccessory.Colors.Green}"
-					// Blue: "{$Items.PetAccessory.Colors.Blue}"
-					// Purple: "{$Items.PetAccessory.Colors.Purple}"
-					// Pink: "{$Items.PetAccessory.Colors.Pink}"
-					// White: "{$Items.PetAccessory.Colors.White}"
-					// Gray: "{$Items.PetAccessory.Colors.Gray}"
-					// Black: "{$Items.PetAccessory.Colors.Black}"
+					Red: "{$Items.PetAccessory.Colors.Red}"
+					Orange: "{$Items.PetAccessory.Colors.Orange}"
+					Gold: "{$Items.PetAccessory.Colors.Gold}"
+					Yellow: "{$Items.PetAccessory.Colors.Yellow}"
+					Green: "{$Items.PetAccessory.Colors.Green}"
+					Blue: "{$Items.PetAccessory.Colors.Blue}"
+					Purple: "{$Items.PetAccessory.Colors.Purple}"
+					Pink: "{$Items.PetAccessory.Colors.Pink}"
+					White: "{$Items.PetAccessory.Colors.White}"
+					Gray: "{$Items.PetAccessory.Colors.Gray}"
+					Black: "{$Items.PetAccessory.Colors.Black}"
 				}
 			}
 
 			PetAccessoryBunnyEars: {
-				// DisplayName: Cute {$Items.PetAccessoryBunnyEars.ShortName}
-				// Tooltip: "'A pair of Easter bunny ears for your cute slime to wear on her head'"
-				// ShortName: Bunny Ears
+				DisplayName: {$Items.PetAccessoryBunnyEars.ShortName} Fofinhas
+				Tooltip: "'Um par de orelhas do coelhinho da Páscoa para a sua geleia fofa vestir em sua cabeça'"
+				ShortName: Orelhas de Coelho
 			}
 
 			PetAccessoryBunnySuit: {
-				// DisplayName: Cute {$Items.PetAccessoryBunnySuit.ShortName}
-				// Tooltip: "'A bunny(?) costume for your cute slime to wear on her chest'"
-				// ShortName: Bunny Suit
+				DisplayName: {$Items.PetAccessoryBunnySuit.ShortName} Fofinha
+				Tooltip: "'Uma roupa de coelho(?) para a sua geleia fofa vestir em seu peitoral'"
+				ShortName: Roupa de Coelhinha
 
 				AccessoryNames: {
-					// Black: "{$Items.PetAccessory.Colors.Black}"
-					// Orange: "{$Items.PetAccessory.Colors.Orange}"
-					// Gold: "{$Items.PetAccessory.Colors.Gold}"
-					// Yellow: "{$Items.PetAccessory.Colors.Yellow}"
-					// Green: "{$Items.PetAccessory.Colors.Green}"
-					// Blue: "{$Items.PetAccessory.Colors.Blue}"
-					// Purple: "{$Items.PetAccessory.Colors.Purple}"
-					// Pink: "{$Items.PetAccessory.Colors.Pink}"
-					// White: "{$Items.PetAccessory.Colors.White}"
-					// Gray: "{$Items.PetAccessory.Colors.Gray}"
-					// Red: "{$Items.PetAccessory.Colors.Red}"
+					Black: "{$Items.PetAccessory.Colors.Black}"
+					Orange: "{$Items.PetAccessory.Colors.Orange}"
+					Gold: "{$Items.PetAccessory.Colors.Gold}"
+					Yellow: "{$Items.PetAccessory.Colors.Yellow}"
+					Green: "{$Items.PetAccessory.Colors.Green}"
+					Blue: "{$Items.PetAccessory.Colors.Blue}"
+					Purple: "{$Items.PetAccessory.Colors.Purple}"
+					Pink: "{$Items.PetAccessory.Colors.Pink}"
+					White: "{$Items.PetAccessory.Colors.White}"
+					Gray: "{$Items.PetAccessory.Colors.Gray}"
+					Red: "{$Items.PetAccessory.Colors.Red}"
 				}
 			}
 
 			PetAccessoryCrown: {
-				// DisplayName: Cute {$Items.PetAccessoryCrown.ShortName}
-				// Tooltip: "'A regal crown for your cute slime to wear on her head'"
-				// ShortName: Crown
+				DisplayName: {$Items.PetAccessoryCrown.ShortName} Fofinha
+				Tooltip: "'Uma coroa majestosa para sua geleia fofa vestir em sua cabeça'"
+				ShortName: Coroa
 
 				AccessoryNames: {
-					// Gold: "{$Items.PetAccessory.Colors.Gold}"
-					// Platinum: "{$Items.PetAccessory.Colors.Platinum}"
+					Gold: "{$Items.PetAccessory.Colors.Gold}"
+					Platinum: "{$Items.PetAccessory.Colors.Platinum}"
 				}
 			}
 
 			PetAccessoryHairBow: {
-				// DisplayName: Cute {$Items.PetAccessoryHairBow.ShortName}
-				// Tooltip: "'A large bow for your cute slime to wear on her head'"
-				// ShortName: Hair Bow
+				DisplayName: {$Items.PetAccessoryHairBow.ShortName} Fofinho
+				Tooltip: "'Um grande laço para a sua geleia fofa vestir em sua cabeça'"
+				ShortName: Laço de Cabelo
 
 				AccessoryNames: {
-					// Red: "{$Items.PetAccessory.Colors.Red}"
-					// Orange: "{$Items.PetAccessory.Colors.Orange}"
-					// Gold: "{$Items.PetAccessory.Colors.Gold}"
-					// Yellow: "{$Items.PetAccessory.Colors.Yellow}"
-					// Green: "{$Items.PetAccessory.Colors.Green}"
-					// Blue: "{$Items.PetAccessory.Colors.Blue}"
-					// Purple: "{$Items.PetAccessory.Colors.Purple}"
-					// Pink: "{$Items.PetAccessory.Colors.Pink}"
-					// White: "{$Items.PetAccessory.Colors.White}"
-					// Gray: "{$Items.PetAccessory.Colors.Gray}"
-					// Black: "{$Items.PetAccessory.Colors.Black}"
+					Red: "{$Items.PetAccessory.Colors.Red}"
+					Orange: "{$Items.PetAccessory.Colors.Orange}"
+					Gold: "{$Items.PetAccessory.Colors.Gold}"
+					Yellow: "{$Items.PetAccessory.Colors.Yellow}"
+					Green: "{$Items.PetAccessory.Colors.Green}"
+					Blue: "{$Items.PetAccessory.Colors.Blue}"
+					Purple: "{$Items.PetAccessory.Colors.Purple}"
+					Pink: "{$Items.PetAccessory.Colors.Pink}"
+					White: "{$Items.PetAccessory.Colors.White}"
+					Gray: "{$Items.PetAccessory.Colors.Gray}"
+					Black: "{$Items.PetAccessory.Colors.Black}"
 				}
 			}
 
 			PetAccessoryKitchenKnife: {
-				// DisplayName: Cute {$Items.PetAccessoryKitchenKnife.ShortName}
-				// Tooltip: "'A plush kitchen knife for your cute slime to carry'"
-				// ShortName: Kitchen Knife
+				DisplayName: {$Items.PetAccessoryKitchenKnife.ShortName} Fofinha
+				Tooltip: "'Uma faca de cozinha de pelúcia para a sua geleia fofa carregar'"
+				ShortName: Faca de Cozinha
 
 				AccessoryNames: {
-					// Iron: "{$Items.PetAccessory.Colors.Iron}"
-					// Gold: "{$Items.PetAccessory.Colors.Gold}"
+					Iron: "{$Items.PetAccessory.Colors.Iron}"
+					Gold: "{$Items.PetAccessory.Colors.Gold}"
 				}
 			}
 
 			PetAccessoryMetalHelmet: {
-				// DisplayName: Cute {$Items.PetAccessoryMetalHelmet.ShortName}
-				// Tooltip: "'A plush knight's helmet for your cute slime to wear on her head'"
-				// ShortName: Knight's Helmet
+				DisplayName: {$Items.PetAccessoryMetalHelmet.ShortName} Fofinho
+				Tooltip: "'Um capacete de cavaleiro de pelúcia para a sua geleia fofa vestir em sua cabeça'"
+				ShortName: Capacete de Cavaleiro
 
 				AccessoryNames: {
-					// Iron: "{$Items.PetAccessory.Colors.Iron}"
-					// Gold: "{$Items.PetAccessory.Colors.Gold}"
+					Iron: "{$Items.PetAccessory.Colors.Iron}"
+					Gold: "{$Items.PetAccessory.Colors.Gold}"
 				}
 			}
 
@@ -1695,26 +1695,26 @@ Mods: {
 
 			PetAccessoryPartyHat: {
 				// DisplayName: Cute {$Items.PetAccessoryPartyHat.ShortName}
-				// Tooltip: "'A party hat for your cute slime to wear on her head'"
+				// Tooltip: "'A party hat for your geleia fofa vestir em sua cabeça'"
 				// ShortName: Party Hat
 			}
 
 			PetAccessoryPumpkinMask: {
 				// DisplayName: Cute {$Items.PetAccessoryPumpkinMask.ShortName}
-				// Tooltip: "'A perfectly-sized pumpkin for your cute slime to wear on her head'"
+				// Tooltip: "'A perfectly-sized pumpkin for your geleia fofa vestir em sua cabeça'"
 				// ShortName: Pumpkin Mask
 
 				AccessoryNames: {
-					// SOrange: Sinister Orange
-					// IOrange: Innocent Orange
-					// SGreen: Sinister Green
-					// IGreen: Innocent Green
-					// SWhite: Sinister White
-					// IWhite: Innocent White
-					// SPurple: Sinister Purple
-					// IPurple: Innocent Purple
-					// SMelon: Sinister Melon
-					// IMelon: Innocent Melon
+					SOrange: Laranja Sinistra
+					IOrange: Laranja Inocente
+					SGreen: Verde Sinistro
+					IGreen: Verde Inocente
+					SWhite: Branco Sinistro
+					IWhite: Branco Inocente
+					SPurple: Roxo Sinistro
+					IPurple: Roxo Inocente
+					SMelon: Melão Sinistro
+					IMelon: Melão Inocente
 				}
 			}
 
@@ -1760,7 +1760,7 @@ Mods: {
 
 			PetAccessoryTophat: {
 				// DisplayName: Cute {$Items.PetAccessoryTophat.ShortName}
-				// Tooltip: "'A classy top hat for your cute slime to wear on her head'"
+				// Tooltip: "'A classy top hat for your geleia fofa vestir em sua cabeça'"
 				// ShortName: Top Hat
 			}
 
@@ -1821,13 +1821,13 @@ Mods: {
 
 			PetAccessoryWizardHat: {
 				// DisplayName: Cute {$Items.PetAccessoryWizardHat.ShortName}
-				// Tooltip: "'A brown wizard's hat for your cute slime to wear on her head'"
+				// Tooltip: "'A brown wizard's hat for your geleia fofa vestir em sua cabeça'"
 				// ShortName: Wizard Hat
 			}
 
 			PetAccessoryXmasHat: {
 				// DisplayName: Cute {$Items.PetAccessoryXmasHat.ShortName}
-				// Tooltip: "'A festive hat for your cute slime to wear on her head'"
+				// Tooltip: "'A festive hat for your geleia fofa vestir em sua cabeça'"
 				// ShortName: Santa Hat
 
 				AccessoryNames: {
