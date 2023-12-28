@@ -1674,35 +1674,35 @@ Mods: {
 			}
 
 			PetAccessoryMittens: {
-				// DisplayName: Cute {$Items.PetAccessoryMittens.ShortName}
-				// Tooltip: "'Warm mittens for your cute slime's hands'"
-				// ShortName: Mittens
+				DisplayName: {$Items.PetAccessoryMittens.ShortName} Fofinhas
+				Tooltip: "'Luvas quentes para as mãos da sua geleia fofa'"
+				ShortName: Luvas
 
 				AccessoryNames: {
-					// Red: "{$Items.PetAccessory.Colors.Red}"
-					// Orange: "{$Items.PetAccessory.Colors.Orange}"
-					// Gold: "{$Items.PetAccessory.Colors.Gold}"
-					// Yellow: "{$Items.PetAccessory.Colors.Yellow}"
-					// Green: "{$Items.PetAccessory.Colors.Green}"
-					// Blue: "{$Items.PetAccessory.Colors.Blue}"
-					// Purple: "{$Items.PetAccessory.Colors.Purple}"
-					// Pink: "{$Items.PetAccessory.Colors.Pink}"
-					// White: "{$Items.PetAccessory.Colors.White}"
-					// Gray: "{$Items.PetAccessory.Colors.Gray}"
-					// Black: "{$Items.PetAccessory.Colors.Black}"
+					Red: "{$Items.PetAccessory.Colors.Red}"
+					Orange: "{$Items.PetAccessory.Colors.Orange}"
+					Gold: "{$Items.PetAccessory.Colors.Gold}"
+					Yellow: "{$Items.PetAccessory.Colors.Yellow}"
+					Green: "{$Items.PetAccessory.Colors.Green}"
+					Blue: "{$Items.PetAccessory.Colors.Blue}"
+					Purple: "{$Items.PetAccessory.Colors.Purple}"
+					Pink: "{$Items.PetAccessory.Colors.Pink}"
+					White: "{$Items.PetAccessory.Colors.White}"
+					Gray: "{$Items.PetAccessory.Colors.Gray}"
+					Black: "{$Items.PetAccessory.Colors.Black}"
 				}
 			}
 
 			PetAccessoryPartyHat: {
-				// DisplayName: Cute {$Items.PetAccessoryPartyHat.ShortName}
-				// Tooltip: "'A party hat for your geleia fofa vestir em sua cabeça'"
-				// ShortName: Party Hat
+				DisplayName: {$Items.PetAccessoryPartyHat.ShortName} Fofinho
+				Tooltip: "'Um chapéu de festa para a sua geleia fofa vestir em sua cabeça'"
+				ShortName: Chapéu de Festa
 			}
 
 			PetAccessoryPumpkinMask: {
-				// DisplayName: Cute {$Items.PetAccessoryPumpkinMask.ShortName}
-				// Tooltip: "'A perfectly-sized pumpkin for your geleia fofa vestir em sua cabeça'"
-				// ShortName: Pumpkin Mask
+				DisplayName: {$Items.PetAccessoryPumpkinMask.ShortName} Fofinha
+				Tooltip: "'Uma abóbora de tamanho perfeito para a sua geleia fofa vestir em sua cabeça'"
+				ShortName: Máscara de Abóbora
 
 				AccessoryNames: {
 					SOrange: Laranja Sinistra
@@ -1719,36 +1719,36 @@ Mods: {
 			}
 
 			PetAccessorySlimeHead: {
-				// DisplayName: Cute {$Items.PetAccessorySlimeHead.ShortName}
-				// Tooltip: "'A slime plush that sits on your cute slime's head'"
-				// ShortName: Head Slime
+				DisplayName: {$Items.PetAccessorySlimeHead.ShortName} Fofinha
+				Tooltip: "'Uma pelúcia de geleia para a sua geleia fofa vestir em sua cabeça'"
+				ShortName: Cabeça de Geleia
 
 				AccessoryNames: {
-					// Blue: "{$Items.PetAccessory.Colors.Blue}"
-					// Purple: "{$Items.PetAccessory.Colors.Purple}"
-					// Pink: "{$Items.PetAccessory.Colors.Pink}"
-					// Pinky: Pinky
-					// Red: "{$Items.PetAccessory.Colors.Red}"
-					// Yellow: "{$Items.PetAccessory.Colors.Yellow}"
-					// Green: "{$Items.PetAccessory.Colors.Green}"
-					// Black: "{$Items.PetAccessory.Colors.Black}"
+					Blue: "{$Items.PetAccessory.Colors.Blue}"
+					Purple: "{$Items.PetAccessory.Colors.Purple}"
+					Pink: "{$Items.PetAccessory.Colors.Pink}"
+					Pinky: Rosinha
+					Red: "{$Items.PetAccessory.Colors.Red}"
+					Yellow: "{$Items.PetAccessory.Colors.Yellow}"
+					Green: "{$Items.PetAccessory.Colors.Green}"
+					Black: "{$Items.PetAccessory.Colors.Black}"
 				}
 			}
 
 			PetAccessoryStaff: {
-				// DisplayName: Cute {$Items.PetAccessoryStaff.ShortName}
-				// Tooltip: "'A plush staff for your cute slime to carry'"
-				// ShortName: Staff
+				DisplayName: {$Items.PetAccessoryStaff.ShortName} Fofinho
+				Tooltip: "'Um cajado de pelúcia para a sua geleia fofa carregar'"
+				ShortName: Cajado
 
 				AccessoryNames: {
-					// Amethyst: Amethyst
-					// Sapphire: Sapphire
-					// Emerald: Emerald
-					// Ruby: Ruby
-					// Amber: Amber
-					// Topaz: Topaz
-					// Diamond: Diamond
-					// Magic: Magic
+					Amethyst: Ametista
+					Sapphire: Safira
+					Emerald: Esmeralda
+					Ruby: Rubi
+					Amber: Âmbar
+					Topaz: Topázio
+					Diamond: Diamante
+					Magic: Mágico
 				}
 			}
 
